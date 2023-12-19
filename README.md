@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **backend node.js roadmap**
 
 - 🌱 I’m look forward to being **a full-stack developer**
-- 
-- 👨‍💻 All of my projects are available at [soon](soon)
+
+- 👨‍💻 All of my projects are available at [soon]
 
 - 📫 How to reach me **habibalmasry3@gmail.com**
 

@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on professional mobile apps as a **Flutter developer**
 
-- 🌱 I’m currently learning **backend node.js roadmap**
+- 🌱 I’m currently learning : **backend node.js roadmap**
 
-- 📫 How to reach me **habibalmasry3@gmail.com**
+- 📫 How to reach me : **habibalmasry3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VXdxtBUdYFS8zZQt64LpEzSMO9u1mjBE/view?usp=sharing](https://drive.google.com/file/d/1VXdxtBUdYFS8zZQt64LpEzSMO9u1mjBE/view?usp=sharing)
+- 📄 Know about my experiences : **[https://drive.google.com/file/d/1VXdxtBUdYFS8zZQt64LpEzSMO9u1mjBE/view?usp=sharing](https://drive.google.com/file/d/1VXdxtBUdYFS8zZQt64LpEzSMO9u1mjBE/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

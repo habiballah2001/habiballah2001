@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habiballah2001&label=Profile%20views&color=0e75b6&style=flat" alt="habiballah2001" /> </p>
 
-- 🔭 I’m currently working on professional mobile apps as a Flutter developer **professional mobile apps as a Flutter developer**
+- 🔭 I’m currently working on **professional mobile apps as a Flutter developer**
 
 - 🌱 I’m currently learning **backend node.js roadmap**
 

@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habiballah2001&label=Profile%20views&color=0e75b6&style=flat" alt="habiballah2001" /> </p>
 
+- Graduated with a bachelor's drgree in **computer science** from **Higher Technological Institute(HTI)**
+
 - 🔭 I’m currently working on professional mobile apps as a **Flutter developer**
 
 - 📫 How to reach me : **habibalmasry3@gmail.com**

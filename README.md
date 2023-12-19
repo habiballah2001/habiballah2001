@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm habib allah</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">A software engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habiballah2001&label=Profile%20views&color=0e75b6&style=flat" alt="habiballah2001" /> </p>
 
-- 🔭 I’m currently working on **many mobile professional apps as a freelancer**
+- 🔭 I’m currently working on **professional mobile apps as a Flutter developer**
 
 - 🌱 I’m currently learning **backend node.js roadmap**
 
+- 🌱 I’m look forward to being **a full-stack developer**
+- 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
 - 📫 How to reach me **habibalmasry3@gmail.com**
